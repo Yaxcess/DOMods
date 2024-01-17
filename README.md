@@ -6,6 +6,6 @@ I recommend to launch the game atleast once before installing this mod. If you c
 
 *If you're using vm or cloner app I can't help with installation since there are too many possible vms and cloners.*
 
-Also i have to admit that i **WON'T share** any mods with any other functionality rather than visual changes like grade, chat and some ui. This means no immo, no spawn, no infinite points, no modded stats, no cut out detections, no cut out ads, no changed links or other potentially harmful for the game things.
+Also i have to admit that i **WON'T share** any mods with any other functionality rather than visual changes like grade, chat some ui and experimental features. This means no immo, no infinite points, no modded stats, no cut out detections, no cut out ads, no changed links or other potentially harmful for the game things.
 
 ***No, it won't save you from ban whether you deserve it or not.***
