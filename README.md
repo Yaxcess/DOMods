@@ -1,3 +1,6 @@
+Only Android.
+Default compatibility for every mod: ARM64_v8. If the mod is compatible with any other architecture I will mention it in the release description.
+
 # -------Installation-------
 
 To install any of my mods you need any file explorer. You can use EX Explorer, Google Files, whatever..
