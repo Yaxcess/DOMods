@@ -1,5 +1,5 @@
 Only Android.
-Default compatibility for every mod: ARM64_v8. If the mod is compatible with any other architecture I will mention it in the release description.
+Default compatibility for every mod: ARM64. If the mod is compatible with any other architecture I will mention it in the release description.
 
 # -------Installation-------
 
